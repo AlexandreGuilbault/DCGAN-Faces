@@ -12,7 +12,18 @@ torchvision 0.2.1\
 matplotlib  2.2.2\
 numpy       1.15.1
 
-## Dependencies
+## Outputs
+
+Some examples of the generated images after 250 epochs of training.
+
+![Catastrophic forgetting?](https://github.com/AlexandreGuilbault/DCGAN-Faces/blob/master/img/1.png?raw=true)
+![Catastrophic forgetting?](https://github.com/AlexandreGuilbault/DCGAN-Faces/blob/master/img/7.png?raw=true)
+![Catastrophic forgetting?](https://github.com/AlexandreGuilbault/DCGAN-Faces/blob/master/img/13.png?raw=true)
+![Catastrophic forgetting?](https://github.com/AlexandreGuilbault/DCGAN-Faces/blob/master/img/16.png?raw=true)
+![Catastrophic forgetting?](https://github.com/AlexandreGuilbault/DCGAN-Faces/blob/master/img/17.png?raw=true)
+
+
+## Issues
 
 Catastrophic forgetting seemed to happen on a 64x64 bits image size with the full dataset. Reduced to 32x32 image size and a dataset of 30,000 images on the last version.
 
