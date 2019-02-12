@@ -16,11 +16,10 @@ numpy       1.15.1
 
 Some examples of the generated images after 250 epochs of training.
 
-![Catastrophic forgetting?](https://github.com/AlexandreGuilbault/DCGAN-Faces/blob/master/img/1.png?raw=true)
-![Catastrophic forgetting?](https://github.com/AlexandreGuilbault/DCGAN-Faces/blob/master/img/7.png?raw=true)
-![Catastrophic forgetting?](https://github.com/AlexandreGuilbault/DCGAN-Faces/blob/master/img/13.png?raw=true)
-![Catastrophic forgetting?](https://github.com/AlexandreGuilbault/DCGAN-Faces/blob/master/img/16.png?raw=true)
-![Catastrophic forgetting?](https://github.com/AlexandreGuilbault/DCGAN-Faces/blob/master/img/17.png?raw=true)
+![Example 1](https://github.com/AlexandreGuilbault/DCGAN-Faces/blob/master/img/1.png?raw=true)
+![Example 2](https://github.com/AlexandreGuilbault/DCGAN-Faces/blob/master/img/13.png?raw=true)
+![Example 3](https://github.com/AlexandreGuilbault/DCGAN-Faces/blob/master/img/16.png?raw=true)
+![Example 4](https://github.com/AlexandreGuilbault/DCGAN-Faces/blob/master/img/17.png?raw=true)
 
 
 ## Issues
